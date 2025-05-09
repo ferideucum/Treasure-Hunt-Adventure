@@ -1,0 +1,40 @@
+FURKAN,1,5
+FURKAN,2,30
+TestUser,1,30
+test user,2,5
+TestUser,1,10
+test user,2,10
+TestUser,1,35
+TestUser,1,45
+TestUser,1,15
+test user,2,5
+TestUser,1,-10
+TestUser,1,-10
+TestUser,1,-10
+TestUser,1,-15
+TestUser,1,15
+furkan,1,30
+furkan,2,0
+furkan,3,-5
+test user,3,25
+semih,1,20
+semih,2,35
+test user,2,0
+alev,1,-5
+alev,2,35
+alev,3,5
+TestUser,1,10
+TestUser,2,0
+TestUser,2,0
+mert,1,0
+mert,1,0
+mert,1,20
+mert,2,5
+mert,3,85
+feride,1,20
+feride,2,-5
+mert,1,5
+mert,2,0
+feride,1,20
+feride,2,0
+feride,3,5
