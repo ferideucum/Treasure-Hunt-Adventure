@@ -7,19 +7,19 @@ The Treasure Hunt Adventure project is a game built using linked lists and tree 
 #### General Structure
 The GUI design consists of a main menu with options to start the game and view scores, a window for entering the user’s name, three interconnected levels, and a scoreboard section using a Binary Search Tree (BST). The project structure is as follows:
 THA │
-├── BST.java
-├── BstNode.java
-├── DLinkedList.java
-├── DNode.java
-├── LinkedList.java
-├── Node.java
-├── game.java
-├── game2.java
-├── game3.java
-├── score_table.java
-├── start.java
-├── userName.java
-├── score.txt
+- ├── BST.java
+- ├── BstNode.java
+- ├── DLinkedList.java
+- ├── DNode.java
+- ├── LinkedList.java
+- ├── Node.java
+- ├── game.java
+- ├── game2.java
+- ├── game3.java
+- ├── score_table.java
+- ├── start.java
+- ├── userName.java
+- ├── score.txt
 
 #### Data Structures
 Each level includes 30 randomly distributed nodes. Level 1 uses a singly linked list, while Level 2 and 3 use a doubly linked list. The scoreboard is implemented using a binary search tree. Users can view the highest and lowest scores. Tree traversal algorithms are used for navigation.
